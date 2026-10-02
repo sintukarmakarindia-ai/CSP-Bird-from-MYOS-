@@ -1,4 +1,4 @@
-const CACHE_NAME = "csp-bird-pwa-v3";
+const CACHE_NAME = "csp-bird-pwa-v4";
 
 const APP_FILES = [
     "./",
